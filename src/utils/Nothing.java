@@ -5,4 +5,7 @@ public class Nothing {
     // Java is finally done today
 
 
+    // New journey
+
+
 }
