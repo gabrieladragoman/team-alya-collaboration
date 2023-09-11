@@ -1,6 +1,6 @@
 package utils;
 
-public class OtherUnits {
+public class OtherUtils {
 
     // some other units
 
