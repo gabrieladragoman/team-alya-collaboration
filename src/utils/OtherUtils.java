@@ -2,6 +2,6 @@ package utils;
 
 public class OtherUtils {
 
-    // some other units
+    // some other utils
 
 }
